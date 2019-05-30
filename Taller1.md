@@ -49,3 +49,4 @@ Desventajas: El software Arcgis para el caso del ejercicio no tiene desventajas,
 Para el desarrollo del ejercicio se utilizó arcgis y se exporto a formato pdf, se tomo la opcion de utilizar arcgis, por la facilidad para exportar a pdf.
 
 Dificultades: Al momento de realizar el ejercicio, ninguna, ya que se maneja cierta experticia en el manejo y elaboración de mapas, pero una persona que no tiene la experiencia en el tema no las puede manejar de manera fácil o se demoraria al momento de la generación de los mapas.
+
